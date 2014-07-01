@@ -71,14 +71,12 @@ Well, I am really excited to learn everything in this class especially since I w
 
 
 </td>
-
-      <td><img src="images/sameen.jpg" alt="Pi Infinity Tutoring Services serving the future."></td>
     </tr>
 
 
         
   </table>
 </div>
-<div id="footer" >&copy; 2014 Piinfinitytutoringservice.com -  all rights reserved. &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;   Sameen Awan</div>
+<div id="footer" >&copy; 2014 Sameen Awan -  all rights reserved. &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;   Awan</div>
 </body>
 </html>
