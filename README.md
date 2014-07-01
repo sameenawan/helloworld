@@ -4,10 +4,10 @@
 ## Live URL
 
 #Pagoda
-<http://helloworldsameen.gopagoda.com/>
+<http://helloworldsameen.gopagoda.com/index.php>
 
 #Jumpstarter
-http://hellow28.onjumpstarter.io/
+<http://hellow28.onjumpstarter.io/>
 
 
 
