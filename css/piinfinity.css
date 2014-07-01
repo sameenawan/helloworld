@@ -1,0 +1,127 @@
+@charset "utf-8";
+/* CSS Document */
+
+#header { margin-top: 0.01em;
+	width: 670px;
+	background-color: #FFFFFF;
+	height: 100%;
+	 margin-left: auto;
+    	margin-right: auto;	
+	background-position: center;
+}
+
+
+
+
+
+
+body,html {
+	margin: 0;
+	background-color: #FFFFFF;
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #666666;
+}
+
+
+
+#banner {
+	width: 670px;
+	padding: 0px 40px 0px 40px;
+	margin: 0 auto;
+	text-align: left;
+	height: 175px;
+	
+}
+#bannernav {
+	width: 670px;
+	background-color: #2D9BF8;
+	height: 22px;
+	border-bottom: 1px solid #FFFFFF;
+}
+
+
+
+
+
+#navigation ul {margin: 0 0 0 0;padding: 0 0 0 0; list-style: none;}
+#navigation ul li a {display: block;text-decoration: none; padding-left: 1em; border: thin solid navy; font-weight: bold;}
+#navigation ul li a:link {display: block;}
+#navigation ul li a:visited {display: block;}
+#navigation ul li a:hover {display: block; border: thin solid white; background-color: navy; color: white;}
+#navigation ul li a:active {display: block;}
+
+
+
+
+#navigation li {
+	display: inline;
+	list-style: none;
+	height: 22px;
+}
+#navigation li a {
+	color: #FFFFFF;
+	line-height: 22px;
+	font-size: 11px;
+	text-decoration: none;
+	padding: 5px 15px 5px 15px;
+	border-right: 1px solid #FFFFFF;
+}
+#navigation li a:hover {
+	text-decoration: underline;
+	background-color: #FF6600;
+}
+
+
+/* This sections has Rules specific for "you are here" of each page */
+#part1 #navigation #mainnav #navpart1 a, #part1 #navigation #mainnav #navpart1 a:link, #part1 #navigation #mainnav #navpart1 a:visited, #part1 #navigation #mainnav #navpart1 a:hover, 
+#part2 #navigation #mainnav #navpart2 a, #part2 #navigation #mainnav #navpart2 a:link, #part2 #navigation #mainnav #navpart2 a:visited, #part2 #navigation #mainnav #navpart2 a:hover, 
+#part3 #navigation #mainnav #navpart3 a, #part3 #navigation #mainnav #navpart3 a:link, #part3 #navigation #mainnav #navpart3 a:visited, #part3 #navigation #mainnav #navpart3 a:hover, 
+#part4 #navigation #mainnav #navpart4 a, #part4 #navigation #mainnav #navpart4 a:link, #part4 #navigation #mainnav #navpart4 a:visited, #part4 #navigation #mainnav #navpart4 a:hover, 
+#part5 #navigation #mainnav #navpart5 a, #part5 #navigation #mainnav #navpart5 a:link, #part5 #navigation #mainnav #navpart5 a:visited, #part5 #navigation #mainnav #navpart5 a:hover, 
+#part6 #navigation #mainnav #navpart6 a, #part6 #navigation #mainnav #navpart6 a:link, #part6 #navigation #mainnav #navpart6 a:visited, #part6 #navigation #mainnav #navpart6 a:hover, 
+#part7 #navigation #mainnav #navpart7 a, #part7 #navigation #mainnav #navpart7 a:link, #part7 #navigation #mainnav #navpart7 a:visited, #part7 #navigation #mainnav #navpart7 a:hover, 
+#part8 #navigation #mainnav #navpart8 a, #part8 #navigation #mainnav #navpart8 a:link, #part8 #navigation #mainnav #navpart8 a:visited, #part8 #navigation #mainnav #navpart8 a:hover 
+ { color: #ff0000; background-color: #ffffff; border: thin solid navy;}
+
+
+
+#content {
+	width: 670px;
+	height: auto;
+	margin: 0 auto;
+	background-position: center top;
+}
+
+
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+	color: #FFFFFF;
+	background-color: #FF6600;
+}
+a:active {
+	text-decoration: none;
+}
+
+
+.mheading {color: #0079FF; font-size: 16px;}
+.sheading {color: #FF6600; font-size: 14px;}
+.textt {color: #666666; font-size: 12px;}
+
+#footer {font-size: small; 
+	background-color: #0079FF;
+	text-align:center;
+	background-position: center;
+	color: #FFFFFF;
+	clear: both;
+	width: 100%;
+
+}
+
+
